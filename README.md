@@ -4,7 +4,7 @@
 
 ### Что я умею:
 
-- Python
+- Python [Дипломная работа](https://github.com/GrigoriyKuzevanov/python-final-diplom)
 - Django, Flask
 - Git
 - Docker, Docker-compose
