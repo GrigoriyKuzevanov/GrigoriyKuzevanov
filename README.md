@@ -2,13 +2,14 @@
 
 Меня зовут Григорий Кузеванов, я разработчик на Python
 
-### Чему я научился:
+### Что я умею:
 
 - Python
-- Django
-- Flask
+- Django, Flask
+- Git
 - Docker, Docker-compose
 - PostgreSQL
+- PyTest, UnitTest
 
 ### Сертификаты Нетологии
 
