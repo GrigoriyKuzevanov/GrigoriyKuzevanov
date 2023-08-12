@@ -5,7 +5,8 @@
 ### Что я умею:
 
 - Python [Дипломная работа](https://github.com/GrigoriyKuzevanov/python-final-diplom)
-- Django, Flask
+- [Django](https://github.com/GrigoriyKuzevanov/netology_homework/tree/master/django/dj-homeworks-video)
+- [Flask](https://github.com/GrigoriyKuzevanov/netology_homework/tree/master/flask/homework), [aiohttp](https://github.com/GrigoriyKuzevanov/netology_homework/tree/master/aiohttp/homework) [asyncio](https://github.com/GrigoriyKuzevanov/netology_homework/tree/master/asyncio/sw-api), [celery](https://github.com/GrigoriyKuzevanov/netology_homework/tree/master/celery/homework)
 - Git
 - Docker, Docker-compose
 - PostgreSQL
