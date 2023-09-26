@@ -2,6 +2,8 @@
 
 Меня зовут Григорий Кузеванов, я разработчик на Python
 
+[Моё резюме](https://docs.google.com/document/d/1TttrdBy_BahWTwgavN-DKv_DEvfXzBvC/edit?usp=sharing&ouid=114358483387382117869&rtpof=true&sd=true)
+
 ### Что я умею:
 
 - **Python**
