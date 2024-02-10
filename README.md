@@ -11,7 +11,9 @@
     - [Дипломная работа](https://github.com/GrigoriyKuzevanov/python-final-diplom)
     - [Домашние работы по крсу django](https://github.com/GrigoriyKuzevanov/netology_homework/tree/master/django/dj-homeworks-video)
     - [Учебный проект](https://github.com/GrigoriyKuzevanov/django-pet-project)
-- **Flask** [Домашние работы по Flask](https://github.com/GrigoriyKuzevanov/netology_homework/tree/master/flask/homework)
+- **Flask**
+    -  [Учебный проект](https://github.com/GrigoriyKuzevanov/flask-pet-project)   
+    -  [Домашние работы по Flask](https://github.com/GrigoriyKuzevanov/netology_homework/tree/master/flask/homework)
 - **aiohttp** [Домашние работы по aiohttp](https://github.com/GrigoriyKuzevanov/netology_homework/tree/master/aiohttp/homework)
 - **asyncio** [Домашние работы по asyncio](https://github.com/GrigoriyKuzevanov/netology_homework/tree/master/asyncio/sw-api)
 - **celery** [Домашние работы по celery](https://github.com/GrigoriyKuzevanov/netology_homework/tree/master/celery/homework)
