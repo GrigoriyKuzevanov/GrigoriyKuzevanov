@@ -22,6 +22,9 @@
 - **PostgreSQL**
 - **PyTest, UnitTest**
 
+### Выполненные тестовые задания
+- [Консольное приложение для операций с базой данных](https://github.com/GrigoriyKuzevanov/employee_db_test)
+
 ### Сертификаты Нетологии
 
 - [Python](https://github.com/GrigoriyKuzevanov/GrigoriyKuzevanov/blob/main/certificates/7%20Курс.pdf)
