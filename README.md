@@ -24,6 +24,7 @@
 
 ### Выполненные тестовые задания
 - [Консольное приложение для операций с базой данных](https://github.com/GrigoriyKuzevanov/employee_db_test)
+- [Консольное приложение - библиотека](https://github.com/GrigoriyKuzevanov/library_json_test)
 
 ### Сертификаты Нетологии
 
