@@ -14,6 +14,8 @@
 - **Flask**
     -  [Учебный проект](https://github.com/GrigoriyKuzevanov/flask-pet-project)   
     -  [Домашние работы по Flask](https://github.com/GrigoriyKuzevanov/netology_homework/tree/master/flask/homework)
+- **FastApi**
+    -  [Учебный проект](https://github.com/GrigoriyKuzevanov/fastapi-pet-project)
 - **aiohttp** [Домашние работы по aiohttp](https://github.com/GrigoriyKuzevanov/netology_homework/tree/master/aiohttp/homework)
 - **asyncio** [Домашние работы по asyncio](https://github.com/GrigoriyKuzevanov/netology_homework/tree/master/asyncio/sw-api)
 - **celery** [Домашние работы по celery](https://github.com/GrigoriyKuzevanov/netology_homework/tree/master/celery/homework)
